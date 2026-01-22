@@ -1,5 +1,5 @@
 ## About:
-Full-stack dev; brand-aware engineering. More info [here](https://jzdzilowska.github.io/Portfolio/). Mid-century modern enthusiast & Zimmermann apologist.
+Full-stack dev; brand-aware engineering. CS @ BrownU. More info [here](https://jzdzilowska.github.io/Portfolio/). Mid-century modern enthusiast & Zimmermann apologist.
 
 
 ## Find me:
